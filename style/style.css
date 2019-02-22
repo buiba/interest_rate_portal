@@ -1,0 +1,56 @@
+.navbar {
+    padding: .5rem 4rem;
+}
+.navbar-brand  {
+    margin-right: 8rem;
+}
+#login {
+    margin-left: 8rem;
+}
+#login button {
+    background-color: red;
+}
+.table {
+    margin-top: 1rem;
+}
+#title-list {
+    text-align: center;
+    color: red;
+    border: 1px solid;
+}
+#menubar {
+    background-color:#212529 !important;
+    border-bottom: 5px;
+    border-bottom-color: #0000; 
+}
+#menubar a {
+    color: #ffff;
+}
+.dropdown-menu a {
+    background-color: red;
+}
+.dropdown-menu a:hover {
+    background-color: currentColor;
+}
+.btn-outline-success {
+    color:#ffff;
+    border-color: #000000;
+    background-color: red;
+}
+#footer {
+    background-color: chocolate;
+    padding: 50px 50px;
+    margin: 0 auto;
+}
+.label_next {
+    margin-left: 600px;
+}
+.card-img-top {
+    width: 90%;
+    height: 50%;
+}
+/* Form Contact */
+. {
+   width: 30%;
+   margin-left: 500px;
+}
